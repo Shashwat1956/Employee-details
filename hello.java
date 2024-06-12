@@ -32,9 +32,6 @@ public class hello extends JFrame implements ActionListener
         inputPanel.add(new JLabel("Project ID:"));
         projectIdField = new JTextField();
         inputPanel.add(projectIdField);
-        inputPanel.add(new JLabel("Project Name:"));
-        projectNameField = new JTextField();
-        inputPanel.add(projectNameField);
         inputPanel.add(new JLabel("Project Description:"));
         projectDescField = new JTextField();
         inputPanel.add(projectDescField);
