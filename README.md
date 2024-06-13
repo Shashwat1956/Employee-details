@@ -5,7 +5,7 @@
 <br>
 <h3>Features</h3>
 <br>
-<li>
-  <ol>Add Employee: Add a new employee with their name, ID, project name, project ID, and project description.</ol>
-  <ol>Display Employees: View all added employees and their associated project details in a table format.</ol>
-</li>
+<ol>
+  <li>Add Employee: Add a new employee with their name, ID, project name, project ID, and project description.</li>
+  <li>Display Employees: View all added employees and their associated project details in a table format.</li>
+</ol>
