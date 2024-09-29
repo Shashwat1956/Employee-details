@@ -1,4 +1,4 @@
-<h1>Digital Service Agency
+<h1>Digital Service Agency</h1>
 
 <p>This repository contains a Java Swing application for managing employee and project details within a digital service agency. 
   The application allows users to add employees, associate them with projects, and display the information in a table format.</p>
